@@ -1,5 +1,5 @@
 # Synthetic-Tabular-Data-Generation-using-CTGAN-and-classify-with-XGboost
-This is the repository to generate synthetic tabular data when the tabular data has imbalance in some feature. This was done on the competition in [kaggle](https://www.kaggle.com/competitions/robi-datathon-2-pre-assessment). We stood 33 in the private leaderboard. 
+This is the repository to generate synthetic tabular data when the tabular data has imbalance in some feature. This was done on the competition in [kaggle](https://www.kaggle.com/competitions/robi-datathon-2-pre-assessment) Robi Datathon 2.0: Pre-Assessment arranged by Robi. We stood 33 in the private leaderboard. 
 
 It was mainly a classification problem on a tabular data. There were many features including categorical and numerical. We have to first process it to the numerical data. To solve any imbalance in dataset GAN can be used effectively which takes the complex pattern in the consideration. This repository is all about how to generate synthetic data to solve the imbalance in tabular dataset.
 

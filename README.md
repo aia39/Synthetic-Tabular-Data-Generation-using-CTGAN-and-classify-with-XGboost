@@ -7,7 +7,7 @@ It was mainly a classification problem on a tabular data. There were many featur
 # Implementation :
 1. Clone this repository
 2. Firstly, get the tabular data csv. That csv should contain numerical features only. You should select the under-represented class data so that imbalance can be dispelled.
-3. Run the notebook [CTGan_augmentation.ipynb](CTGan_augmentation.ipynb) 
+3. Run the notebook [CTGan_augmentation.ipynb](CTGan_augmentation.ipynb) N.B: You should restart kernel after installing dependencies in the 2nd snippet otherwise error will arise. 
 4. Then output csv will be the new synthetic data.
 
 
